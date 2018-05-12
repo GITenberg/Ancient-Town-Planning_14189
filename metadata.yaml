@@ -1,0 +1,29 @@
+_repo: Ancient-Town-Planning_14189
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haverfield, F. (Francis)
+    alias: Haverfield, Francis John
+    birthdate: 1860
+    deathdate: 1919
+    gutenberg_agent_id: '5394'
+    url: http://www.gutenberg.org/2009/agents/5394
+description: Cover -- Contents.
+gutenberg_issued: '2004-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14189'
+  lccn: '14008596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cities and towns, Ancient'
+- !lcc 'NA'
+- !lcsh 'City planning'
+title: Ancient Town-Planning
+url: http://www.gutenberg.org/ebooks/14189
